@@ -25,7 +25,7 @@ Seja muito bem-vindo ao meu perfil! Sou Guilherme Estevan, um entusiasta de tecn
 ## 📫 Contato
 
 - LinkedIn: [Guilherme Estevan](https://www.linkedin.com/in/guilherme-estevan)
-- Email: guilherme.estevangui@hotmail.com
+- Email: guilhermeestevangui@hotmail.com
 
 ## 🌐 Portfólio
 
