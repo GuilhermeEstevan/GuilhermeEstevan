@@ -9,32 +9,19 @@ Seja muito bem-vindo ao meu perfil! Sou Guilherme Estevan, um entusiasta de tecn
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Ao longo da minha jornada, venho trabalhando e aprimorando minhas habilidades em diversas tecnologias. Algumas das ferramentas que utilizo incluem:
 
-### Frontend
-
-- React
-- TypeScript
-- JavaScript
-- HTML && CSS
-- Styled Components
-
-### Backend
-
-- Node.js
-- Express
-
-### Banco de Dados
-
-- MongoDB
-- MySQL
-
-### Outras Ferramentas
-
-- Git
-- Cloudinary
-- AWS (básico)
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nodejs" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" alt="MongoDB" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img align="center" alt="MySQL" height="55" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+</div>
+  
+        
 ## 📫 Contato
 
 - LinkedIn: [Guilherme Estevan](https://www.linkedin.com/in/guilherme-estevan)
