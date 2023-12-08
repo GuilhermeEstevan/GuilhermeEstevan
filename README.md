@@ -1,6 +1,6 @@
 # Guilherme Estevan - Desenvolvedor Full Stack 🚀
 
-Seja muito bem-vindo ao meu perfil! Sou Guilherme Estevan, um entusiasta de tecnologia. 🌐
+Seja muito bem-vindo ao meu perfil! Sou Guilherme Estevan, um entusiasta apaixonado por tecnologia. 🌐
 
 ## 🎓 Formação Acadêmica
 
