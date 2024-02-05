@@ -19,7 +19,7 @@ Seja muito bem-vindo ao meu perfil! Sou Guilherme Estevan, um entusiasta apaixon
   <img align="center" alt="Nodejs" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="MongoDB" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="MySQL" height="55" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Js" height="55" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
 </div>
   
         
